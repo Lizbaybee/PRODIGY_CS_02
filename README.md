@@ -1,14 +1,14 @@
 # PRODIGY_CS_02
 A pixel manipulation tool for image encryption and decryption using Pillow and Python
 
-# 🔐 Simple Image Encryption using Pixel Manipulation
+# Simple Image Encryption using Pixel Manipulation
 
 This project demonstrates a **basic image encryption and decryption system** built in Python.  
 It uses **pixel manipulation techniques**  including **key-based RGB modification** and **pixel swapping**  to hide and restore image data.
 
 
 
-## 📸 Overview
+##  Overview
 
 The program:
 1. Reads an image pixel by pixel.
@@ -21,12 +21,12 @@ It’s a simple but clear demonstration of how **image data can be protected and
 
 
 
-## 🧩 Features
+##  Features
 
-- 🔑 **Key-based encryption** — each pixel value is shifted using a numeric key.
-- 🔄 **Pixel swapping** — rearranges pixel pairs to distort the image further.
-- 🖼️ **Reversible decryption** — restores the image perfectly using the same key.
-- 💡 **Easy to understand** — great for learning how pixel-level image processing works.
+-  **Key-based encryption** — each pixel value is shifted using a numeric key.
+-  **Pixel swapping** — rearranges pixel pairs to distort the image further.
+-  **Reversible decryption** — restores the image perfectly using the same key.
+-  **Easy to understand** — great for learning how pixel-level image processing works.
 
 
 
